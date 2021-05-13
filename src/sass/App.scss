@@ -1,0 +1,16 @@
+.flags{
+    display: flex;
+    float: left;
+    position: fixed;
+    left: 50%;  
+  }
+  .us,.br{
+    display: flex;
+    height: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 0px;
+  }
+  .children{
+    width: 100%;
+  }
